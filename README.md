@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working as a Freelancer <br>I'm frontend and backend developer <br>I can build and ship fast website <br>I am last year college student<br>
+I'm currently working as a Freelancer <br>I can build and ship fast website <br>I am last year college student<br>"Building AI-powered exam tools for Indian students"
 
 
 ## 🌐 Socials:
