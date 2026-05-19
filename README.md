@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working as a Freelancer <br>I can build and ship fast website <br>I am last year college student<br>"Building AI-powered exam tools for Indian students"
+I'm currently working as a Freelancer <br>I can build and ship fast website <br>I am last year college student<br>"Building AI-powered exam tool (test-lele) for Indian students"
 
 
 ## 🌐 Socials:
